@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Euclid Circular B';
   src: local('Euclid Circular B Light'), local('Euclid-Circular-B-Light'),
-      url('/font/EuclidCircularB-Light.woff2') format('woff2'),
-      url('/font/EuclidCircularB-Light.woff') format('woff'),
-      url('/font/EuclidCircularB-Light.ttf') format('truetype');
+      url('../fonts/EuclidCircularB-Light.woff2') format('woff2'),
+      url('../fonts/EuclidCircularB-Light.woff') format('woff'),
+      url('../fonts/EuclidCircularB-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
