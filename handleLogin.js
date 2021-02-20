@@ -12,7 +12,7 @@ function handleLogin() {
     const html = `
       <h1>No Metamask</h1>
       <hr>
-      <button onclick="location.href='https://metamask.io';"> Install </button>
+      <img class="signButton" src="/images/install.png" onclick="location.href='https://metamask.io'">
     `;
     document.getElementById("app").innerHTML = html;
     return false;
