@@ -1,8 +1,6 @@
-# Metamask Auth
+# Onboard Wallet Auth
 
 Passwordless Login to Game Engine
-
-https://underscoredlabs.github.io/metamask-auth
 
 Login Code is broken into 3 parts:
 
@@ -34,3 +32,20 @@ web3.eth.personal
     )
   );
 ```
+
+### Local
+
+`yarn start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### Deploy
+
+`yarn deploy`
+
+Will deploy to github pages
+
