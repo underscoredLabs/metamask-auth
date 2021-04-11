@@ -57,7 +57,7 @@ function App() {
           Select a Wallet
         </span>
         <div className="App-video">
-          <iframe width="853" height="480" src={`https://www.youtube.com/embed/OngHbKxGmDQ`} frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="Embedded youtube" />
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/OngHbKxGmDQ" title="dAppy Doge Auth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </header>
     </div>

@@ -33,3 +33,9 @@
   word-wrap: break-word;
   margin: 20px;
 }
+
+@media only screen and (max-width: 560px) {
+  iframe {
+    width: 100%;
+  }
+}
