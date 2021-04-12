@@ -16,14 +16,9 @@ const onboard = Onboard({
   },
   walletSelect: {
     wallets: [
-      { walletName: "metamask", preferred: true, label: "MetaMask - Browser" },
-      {
-        walletName: "walletConnect",
-        infuraKey: "6429a308b4d646399b1ea170bb406c61",
-        preferred: true,
-        label: "WalletConnect - Mobile",
-      },
-      { walletName: "torus", preferred: true, label: "Torus - Social" },
+      { walletName: "metamask", preferred: true },
+      { walletName: "trust", preferred: true, rpcUrl: "https://mainnet.infura.io/6429a308b4d646399b1ea170bb406c61" },
+      { walletName: "coinbase", preferred: true },
     ],
   },
 });
