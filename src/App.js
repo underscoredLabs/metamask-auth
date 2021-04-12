@@ -41,7 +41,7 @@ function App() {
     const expiration = Math.round(Date.now() / 1000 + 300).toString();
     const message = `${from}-${expiration}`;
     const signature = await web3.eth.personal.sign(message, from);
-    return `Code ${signature}-${message}`;
+    return `${signature}-${message}`;
   };
 
   return (
