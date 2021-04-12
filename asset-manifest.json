@@ -21,8 +21,8 @@
     "static/js/9.9a6d7cf9.chunk.js": "/metamask-auth/static/js/9.9a6d7cf9.chunk.js",
     "static/js/9.9a6d7cf9.chunk.js.map": "/metamask-auth/static/js/9.9a6d7cf9.chunk.js.map",
     "main.css": "/metamask-auth/static/css/main.eac69ee5.chunk.css",
-    "main.js": "/metamask-auth/static/js/main.4caa1c76.chunk.js",
-    "main.js.map": "/metamask-auth/static/js/main.4caa1c76.chunk.js.map",
+    "main.js": "/metamask-auth/static/js/main.f539859e.chunk.js",
+    "main.js.map": "/metamask-auth/static/js/main.f539859e.chunk.js.map",
     "runtime-main.js": "/metamask-auth/static/js/runtime-main.a7cab702.js",
     "runtime-main.js.map": "/metamask-auth/static/js/runtime-main.a7cab702.js.map",
     "static/js/12.07447b39.chunk.js": "/metamask-auth/static/js/12.07447b39.chunk.js",
@@ -133,6 +133,6 @@
     "static/js/runtime-main.a7cab702.js",
     "static/js/12.07447b39.chunk.js",
     "static/css/main.eac69ee5.chunk.css",
-    "static/js/main.4caa1c76.chunk.js"
+    "static/js/main.f539859e.chunk.js"
   ]
 }
