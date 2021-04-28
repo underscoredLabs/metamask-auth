@@ -19,6 +19,7 @@ const onboard = Onboard({
       { walletName: "metamask", preferred: true },
       { walletName: "trust", preferred: true, rpcUrl: "https://mainnet.infura.io/6429a308b4d646399b1ea170bb406c61" },
       { walletName: "coinbase", preferred: true },
+      { walletName: "torus", preferred: true},
     ],
   },
 });
